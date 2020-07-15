@@ -2,6 +2,7 @@
 
 Hi! 
 This is a project for the CS50's web programming with Python and JS. 
+
 Harvard's CS50 2020 Course Site - [CS50 Website](https://cs50.harvard.edu/web/2020/)
 
 
