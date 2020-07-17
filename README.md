@@ -7,7 +7,9 @@ Harvard's CS50 2020 Course Site - [CS50 Website](https://cs50.harvard.edu/web/20
 
 
 # Specifications
-	I will be listing the required Specifications and Easy to understand explanation of the same
+	I will be listing the required Specifications and Easy to understand explanation of the same.
+	
+	
 ## Pages 
 > Your website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search.
 
